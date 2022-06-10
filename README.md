@@ -114,10 +114,12 @@ Le puedes preguntar tanto en español como en ingles!
 - Frontend: JS, ReactJs, HTML, CSS.
 
 <br/>
-<img width=48% src='./img/magicballMain.png'  alt="seguros contar" />
-<img width=48% src='./img/magicballV.png'  alt="seguros contar" />
-<img width=48% src='./img/magicballA.png'  alt="seguros contar" />
-<img width=48% src='./img/magicballR.png'  alt="seguros contar" />
+<p aling='center'>
+  <img width=48% src='./img/magicballMain.png'  alt="magic8ball" />
+  <img width=48% src='./img/magicballV.png'  alt="magic8ball" />
+  <img width=48% src='./img/magicballA.png'  alt="magic8ball" />
+  <img width=48% src='./img/magicballR.png'  alt="magic8ball" />
+</p>
 
 <br/>
 
