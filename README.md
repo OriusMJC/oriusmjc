@@ -139,7 +139,7 @@ Le puedes preguntar tanto en español como en ingles!
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oriusmjc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriusmjc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriusmjc&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="oriusmjc" />
 
 <br/>
 <br/>
