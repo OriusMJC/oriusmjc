@@ -13,6 +13,7 @@
 
 <br/> -->
 
+
 ## ⚙️ Lenguajes y herramientas:
 
 <p align="left"> 
@@ -42,6 +43,9 @@
 <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>  -->
+<a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
+</a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>
@@ -53,6 +57,9 @@
 </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
 </a> 
 </p>
 
@@ -70,6 +77,38 @@ Puppy Point is an app that connects dog walkers with people who don't have time 
 <img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413883/projects/puppypoint_hiqylo.png'  alt="puppy point" />
 
 <br/> -->
+## 💻MyPC (Ingles):
+<a href="https://mypc.vercel.app" target="_blank" rel="noreferrer">
+  MyPC
+</a>
+is a MarketPlace where you can view, buy and sell PC components. As a common user you can see their details, ask questions before buying, have a list of favorites and a cart. As a seller, you have a statistics section on your account, sales and publications for better monitoring of them. A chat between buyer and seller to coordinate details, accompanied by notifications within the App.<br/>
+We also provide an Admin account, which has a panel to manage and track accounts, products, vendors and more, with page statistics in general.
+<br/>
+<br/>
+
+## 💻MyPC:
+<a href="https://mypc.vercel.app" target="_blank" rel="noreferrer">
+  MyPC
+</a>
+es un MarketPlace en el cual puedes ver, comprar y vender componentes de PC. Como usuario común puedes ver los detalles de los mismos, hacer preguntas antes de comprar, tener una lista de favoritos y un carrito. Como vendedor tiene un apartado de estadísitcas sobre tu cuenta, ventas y publicaciones para un mejor seguimiento de las mismas. Un chat entre comprador y vendedor para coordinar detalles, acompañado de notificaciones dentro de la App.<br/>
+También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y tener seguimiento de las cuentas, productos, vendedores y demás, con estadísticas de la página en general.
+<br/>
+<br/>
+
+- Frontend: TypeScript, React TS, Redux, React-router-DOM, Redux Thunk, HTML, CSS.
+- Backend: TypeScript, Node JS, Express, Sequelize, Firebase, Postgres, Axios.
+- DataBase: SQL.
+- Deploy: Vercel, Heroku.
+- Test: Jest.
+
+<p>
+  <img width=96.5% src='./img/Home.png'  alt="HOME" />
+  <img width=48% src='./img/HomeUltVist.png'  alt="Recomendaciones" />
+  <img width=48% src='./img/Prods.png'  alt="Home Products" />
+  <img width=48% src='./img/ProdDetails.png'  alt="Products Details" />
+  <img width=48% src='./img/Stats.png'  alt="Stats seller" />
+</p>
+
 ### MENU'S
 <a href="https://menus-food.vercel.app" target="_blank" rel="noreferrer">
   MENU'S
