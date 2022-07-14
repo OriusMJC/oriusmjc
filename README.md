@@ -49,6 +49,9 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> 
+</a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -178,7 +181,7 @@ Le puedes preguntar tanto en español como en ingles!
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oriusmjc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriusmjc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriusmjc&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="oriusmjc" />
 
 <br/>
 <br/>
