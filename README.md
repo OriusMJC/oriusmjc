@@ -1,18 +1,6 @@
 <h1 align="center">Hola 👋, soy Matias Contreras!</h1>
 <h3 align="center">Full Stack Javascript Developer de Argentina 💃</h3>
 
-<!-- ## 🙋‍♂️ Sobre mi
-
-- 🔭 Actualmente trabajando en [Puppy Point](https://puppypoint.vercel.app/)
-
-- 🌱 I’m currently learning **styled-components**
-
-- 📫 How to reach me **leomoralesarce@gmail.com**
-
-- ⚡ Fun fact **I play videogames.**
-
-<br/> -->
-
 
 ## ⚙️ Lenguajes y herramientas:
 
@@ -40,9 +28,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a>
-<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>  -->
 <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
 </a> 
@@ -70,16 +55,32 @@
 
 ## 🚀 Proyectos Principales:
 
-<!-- ### Puppy Point
-Puppy Point is an app that connects dog walkers with people who don't have time and want their pets to be walked.
-
-- Backend: Node JS, Express JS, Sequelize, Postgres, Mercado Pago, Nodemailer, Handlebars, JWT, Axios
-- Frontend: React JS, Redux, Chakra UI, Chart JS, Geolocation, Mercado Pago, Axios, React-router-DOM, Redux Thunk
-
+## 💻MyPC:
+<a href="https://lylautomotores.com.ar" target="_blank" rel="noreferrer">
+  L&L Automotores
+</a>
+es un sitio realizado de manera freelance para una consecionaria de automoviles ubicada en Argentina, en donde el principal enfoque era el de transmitir la exclusividad y elegicancia que la marca intenta reflejar en sus clientes. Cuenta con un Home donde pueden verse los autos mas exclusivos, asi como tambien las marcas mas relevantes, una secciones Vehiculos donde se muestran todos los automoviles, un buscador, una seccion Detalles de cada uno de los autos; asi como tambien una seccion de Contacto y otra de Sobre Nosotros con un poco de informacion relevante.
 <br/>
-<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413883/projects/puppypoint_hiqylo.png'  alt="puppy point" />
+<br/>
 
-<br/> -->
+- Frontend: TypeScript, React TS, Redux, React-router-DOM, Redux Thunk, HTML, CSS.
+- Backend: TypeScript, Node JS, Express, Sequelize.
+- DataBase: SQL.
+- Deploy: Vercel, Heroku.
+<p>
+  <img width=96.5% src='./img/lylhome1.png'  alt="lylhome1" />
+  <img width=48% src='./img/lylhome2.png'  alt="lylhome2" />
+  <img width=48% src='./img/lylhome3.png'  alt="lylhome3" />
+  <!-- <img width=96.5% src='./img/lyldetails1.png'  alt="lyldetails1" /> -->
+  <img width=96.5% src='./img/lylvehicles.png'  alt="lylvehicles" />
+  <img width=48% src='./img/about1.png'  alt="about1" />
+  <img width=48% src='./img/lylcontact1.png'  alt="lylcontact1" />
+  <img width=24% src='./img/lylloading.png'  alt="lylloading" />
+  <img width=24% src='./img/lylhomeres.png'  alt="lylhomeres" />
+  <img width=24% src='./img/lylhomeres1.png'  alt="lylhomeres1" />
+  <img width=24% src='./img/lylnavres.png'  alt="lylnavres" />
+</p>
+
 ## 💻MyPC (Ingles):
 <a href="https://mypc.vercel.app" target="_blank" rel="noreferrer">
   MyPC
@@ -154,7 +155,7 @@ es una app en la cual podes ver diferentes variedades de comidas, con sus respec
 
 <br/>
 
-### Magic 8Ball
+<!-- ### Magic 8Ball
 Magic 8Ball Es una App donde le puede hacer cualquier tipo de pregunta y él tendrá la respuesta...
 Le puedes preguntar tanto en español como en ingles!
 
@@ -168,7 +169,7 @@ Le puedes preguntar tanto en español como en ingles!
   <img width=48% src='./img/magicballR.png'  alt="magic8ball" />
 </p>
 
-<br/>
+<br/> -->
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oriusmjc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="lemorles" />
