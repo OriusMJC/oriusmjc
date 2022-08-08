@@ -55,7 +55,7 @@
 
 ## 🚀 Proyectos Principales:
 
-## 💻MyPC:
+## 💻L&L Automotores:
 <a href="https://lylautomotores.com.ar" target="_blank" rel="noreferrer">
   L&L Automotores
 </a>
