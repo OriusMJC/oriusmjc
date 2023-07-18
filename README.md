@@ -62,10 +62,7 @@
 ## 🚀 Proyectos Principales:
 
 ## 🚗L&L Automotores:
-<a href="https://lylautomotores.com.ar" target="_blank" rel="noreferrer">
-  L&L Automotores
-</a>
-es un sitio realizado de manera Freelance para una concesionaria de automóviles ubicada en Argentina, en donde el principal enfoque era el de transmitir la exclusividad y elegancia que la marca intenta reflejar en sus clientes. Cuenta con un Home donde pueden verse los autos mas exclusivos, así como también las marcas mas relevantes, una secciones Vehículos donde se muestran todos los automóviles, un buscador, una sección Detalles de cada uno de los autos; así como también una sección de Contacto y otra de Sobre Nosotros con un poco de información relevante.
+L&L Automotores es un sitio realizado de manera Freelance para una concesionaria de automóviles ubicada en Argentina, en donde el principal enfoque era el de transmitir la exclusividad y elegancia que la marca intenta reflejar en sus clientes. Cuenta con un Home donde pueden verse los autos mas exclusivos, así como también las marcas mas relevantes, una secciones Vehículos donde se muestran todos los automóviles, un buscador, una sección Detalles de cada uno de los autos; así como también una sección de Contacto y otra de Sobre Nosotros con un poco de información relevante.
 <br/>
 <br/>
 
