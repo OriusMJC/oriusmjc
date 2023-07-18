@@ -28,6 +28,12 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a>
+<a href="https://strapi.io" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c8749cfc4be0e67a266be0554282d73d967db910/logos/strapi.svg" alt="express" width="40" height="40"/> 
+</a> 
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.sebastian-gomez.com/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FVKHHNvEETYqZRkqgjybc&w=1920&q=75" alt="express" width="40" height="40"/> 
+</a> 
 <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
 </a> 
